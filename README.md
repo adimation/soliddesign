@@ -1,11 +1,11 @@
 # S.O.L.I.D Design Principles
 SOLID is an ancronym which stands for:-
 
-S - Single Responsibility Principle
-O - Open/Closed Principle
-L - Liskov Substitution Principle
-I - Interface Segregation Principle
-D - Dependency Inversion Principle
+S - Single Responsibility Principle <br />
+O - Open/Closed Principle <br />
+L - Liskov Substitution Principle <br />
+I - Interface Segregation Principle <br />
+D - Dependency Inversion Principle <br />
 
 ## Single Responsibility Principle
 A class should have one and only **one reason** to change, meaning that a class should have only **one job**.
